@@ -33,9 +33,7 @@ Joining Important Subreddits
 
 I began by joining a few gaming-related subreddits:
 
-    r/gaming: A general gaming local area.
-    r/PlayStation: Zeroed in on everything PlayStation.
-    r/GameDeals: Where clients share bargains, including free codes.
+   
 
 The Hunt Cycle
 Scouring for Data
